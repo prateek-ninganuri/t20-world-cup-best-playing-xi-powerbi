@@ -1,5 +1,13 @@
 # 🏏 Best Playing XI Selection Dashboard | Power BI
 
+## 📌 Overview
+
+This project is an interactive Power BI dashboard that analyzes ICC Men's T20 World Cup player statistics to identify the best possible Playing XI based on performance metrics.
+
+The dashboard enables users to compare players across different roles such as Power Hitters, Anchors, Finishers, All-rounders, and Fast Bowlers using interactive visualizations and advanced DAX calculations.
+
+---
+
 ## Dashboard Preview
 
 
@@ -8,7 +16,7 @@
 
 <img width="1161" height="678" alt="Screenshot 2026-07-10 202223" src="https://github.com/user-attachments/assets/3d3d81b1-5162-4c2a-889a-874a692183e7" />
 
-
+---
 
 ## 📌 Overview
 
@@ -86,7 +94,7 @@ The dashboard enables users to compare players across different roles such as Po
 
 
 
----
+
 
 ## Author
 
