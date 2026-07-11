@@ -11,12 +11,10 @@ The dashboard enables users to compare players across different roles such as Po
 ## Dashboard Preview
 
 
-<img width="1162" height="742" alt="Screenshot 2026-07-10 202145" src="https://github.com/user-attachments/assets/2249a126-733e-465e-83e1-f964ddaad70f" />
-<img width="1287" height="803" alt="Screenshot 2026-07-10 202733" src="https://github.com/user-attachments/assets/d76ee221-c961-44ec-a7d8-b15a01e022cb" />
+<img width="1405" height="731" alt="Screenshot 2026-07-11 103803" src="https://github.com/user-attachments/assets/d2bd9daf-7e09-4f07-9ba4-4cb1bd54bf3c" />
+<img width="1465" height="816" alt="Screenshot 2026-07-11 103858" src="https://github.com/user-attachments/assets/507852c9-67e1-4c30-8415-c6b1d8eb1de8" /><img width="1362" height="721" alt="Screenshot 2026-07-11 103835" src="https://github.com/user-attachments/assets/55aed98d-c5b1-4246-aee4-8a1c57be4708" />
 
-<img width="1161" height="678" alt="Screenshot 2026-07-10 202223" src="https://github.com/user-attachments/assets/3d3d81b1-5162-4c2a-889a-874a692183e7" />
 
----
 
 ## 📌 Overview
 
