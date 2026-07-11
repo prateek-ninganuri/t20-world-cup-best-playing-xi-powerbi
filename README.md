@@ -1,12 +1,24 @@
-# 🏏 Best Playing XI Selection Dashboard | Power BI
 
-## 📌 Overview
 
-This project is an interactive Power BI dashboard that analyzes ICC Men's T20 World Cup player statistics to identify the best possible Playing XI based on performance metrics.
+# 🏏 ICC Men's T20 World Cup 2022 | Best Playing XI Analysis
 
-The dashboard enables users to compare players across different roles such as Power Hitters, Anchors, Finishers, All-rounders, and Fast Bowlers using interactive visualizations and advanced DAX calculations.
+An interactive **Power BI dashboard** that analyzes ICC Men's T20 World Cup 2022 player statistics to identify the strongest possible Playing XI using performance-based metrics.
+
+This project follows the complete data analytics workflow—from collecting raw cricket data and transforming it into an analytical model to building an interactive dashboard that supports data-driven player selection.
 
 ---
+
+## 🚀 Project Overview
+
+Selecting the best cricket team isn't just about total runs or wickets—it requires evaluating players based on the role they perform within a T20 team.
+
+This project analyzes player performance across different roles such as **Power Hitters, Anchors, Finishers, All-rounders, and Fast Bowlers** using batting and bowling statistics from the ICC Men's T20 World Cup 2022.
+
+The final result is an interactive Power BI dashboard that allows users to compare players, explore performance metrics, and identify the best Playing XI.
+
+---
+
+
 
 ## Dashboard Preview
 
@@ -16,77 +28,75 @@ The dashboard enables users to compare players across different roles such as Po
 
 
 
-## 📌 Overview
+## 📊 Project Pipeline
 
-This project is an interactive Power BI dashboard that analyzes ICC Men's T20 World Cup player statistics to identify the best possible Playing XI based on performance metrics.
+### 📥 Data Collection
 
-The dashboard enables users to compare players across different roles such as Power Hitters, Anchors, Finishers, All-rounders, and Fast Bowlers using interactive visualizations and advanced DAX calculations.
+* Collected raw match and player data from ESPN Cricinfo using web scraping.
+* Exported the data into JSON files containing match summaries, batting scorecards, bowling scorecards, and player information.
 
----
+### 🧹 Data Cleaning
 
-## Objectives
+* Cleaned and transformed the raw datasets using **Python (Pandas)**.
+* Standardized player names.
+* Handled missing values.
+* Linked multiple datasets using common match identifiers.
+* Prepared the data for analysis.
 
-- Analyze player performance
-- Compare players across different roles
-- Identify the strongest Playing XI
-- Build an interactive scouting dashboard
+### 🔄 Data Transformation
 
----
+* Imported the cleaned datasets into **Power Query**.
+* Corrected data types.
+* Removed duplicate records.
+* Created calculated columns.
+* Performed additional data transformations before loading the model.
 
-## Features
+### 🏗️ Data Modeling
 
-✔ Dynamic Player Selection
+* Built a Star Schema using fact and dimension tables.
+* Established relationships between players, matches, batting, and bowling datasets.
+* Optimized the model for reporting and filtering.
 
-✔ Interactive Dashboard Navigation
+### 📈 Data Visualization
 
-✔ Report Page Tooltips
-
-✔ Role-wise Player Analysis
-
-✔ KPI Cards
-
-✔ Scatter Plot Analysis
-
-✔ Match-wise Performance Trends
-
-✔ Advanced DAX Measures
-
-✔ Conditional Formatting
-
-✔ Cross Filtering
+* Developed an interactive Power BI dashboard using DAX measures, KPIs, filters, tooltips, and visual analytics to evaluate player performance and recommend the strongest Playing XI.
 
 ---
 
-## Player Roles
+## ✨ Dashboard Features
 
-- Power Hitters
-- Anchors
-- Finishers
-- All-rounders
-- Fast Bowlers
-
----
-
-## Technologies
-
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Excel
+* 🎯 Dynamic Playing XI Selection
+* 📊 Role-wise Player Comparison
+* 📌 KPI Cards
+* 📉 Scatter Plot Analysis
+* 🏏 Match-wise Performance Trends
+* 🔍 Report Page Tooltips
+* 🎨 Conditional Formatting
+* 🔄 Cross Filtering
+* ⚡ Advanced DAX Measures
+* 🧭 Interactive Navigation
 
 ---
 
-## Skills Demonstrated
+## 🏏 Player Categories
 
-- Dashboard Design
-- Data Visualization
-- Data Cleaning
-- Data Modeling
-- DAX
-- Business Intelligence
-- Interactive Reporting
-- Sports Analytics
+* Power Hitters
+* Anchors
+* Finishers
+* All-rounders
+* Fast Bowlers
+
+---
+
+## 🛠️ Tech Stack
+
+* Power BI
+* DAX
+* Power Query
+* Python (Pandas)
+* Excel
+* JSON
+* Data Modeling
 
 ---
 
@@ -94,6 +104,25 @@ The dashboard enables users to compare players across different roles such as Po
 
 
 
-## Author
+## 🎯 Learning Outcomes
 
-Prateek
+Through this project, I gained hands-on experience in:
+
+* End-to-end Data Analytics
+* ETL (Extract, Transform, Load)
+* Data Cleaning
+* Data Modeling
+* DAX Calculations
+* Power Query
+* Dashboard Design
+* Interactive Reporting
+* Sports Analytics
+
+---
+
+## 👨‍💻 Author
+
+**Prateek Ninganuri**
+
+If you found this project helpful, consider giving it a ⭐.
+
