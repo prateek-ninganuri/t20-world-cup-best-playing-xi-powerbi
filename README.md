@@ -1,5 +1,5 @@
 
-
+[![YouTube Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/1HxLQ2DROuU)
 # 🏏 ICC Men's T20 World Cup 2022 | Best Playing XI Analysis
 
 An interactive **Power BI dashboard** that analyzes ICC Men's T20 World Cup 2022 player statistics to identify the strongest possible Playing XI using performance-based metrics.
@@ -8,10 +8,24 @@ This project follows the complete data analytics workflow—from collecting raw 
 
 ---
 
-🎥 Project Demo (YouTube)
+## 🎥 Project Demo
+
+📺 **Watch the complete project walkthrough on YouTube**
+
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/1HxLQ2DROuU)
 
+> 🎬 **Watch the complete end-to-end project walkthrough**, where I explain the entire data analytics workflow—from web scraping and data cleaning to Power BI dashboard development and selecting the Best Playing XI using performance-based metrics.
 
+### In this video, you'll learn:
+
+- 📥 Web Scraping cricket data from ESPN Cricinfo
+- 🐍 Data Cleaning & Preprocessing using Python (Pandas)
+- 🔄 Data Transformation with Power Query
+- 🏗️ Star Schema Data Modeling
+- 📊 Creating DAX Measures & KPIs
+- 📈 Building an Interactive Power BI Dashboard
+- 🏏 Selecting the Best Playing XI using data-driven insights
+  
 
 ## 🚀 Project Overview
 
