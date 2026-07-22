@@ -8,6 +8,11 @@ This project follows the complete data analytics workflow—from collecting raw 
 
 ---
 
+🎥 Project Demo (YouTube)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/1HxLQ2DROuU)
+
+
+
 ## 🚀 Project Overview
 
 Selecting the best cricket team isn't just about total runs or wickets—it requires evaluating players based on the role they perform within a T20 team.
